@@ -1,0 +1,3 @@
+Source | https://github.com/meganukebmp/Switch_90DNS_tester
+
+Version | https://github.com/meganukebmp/Switch_90DNS_tester/releases/tag/v1.0.4

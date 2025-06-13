@@ -1,0 +1,37 @@
+=========== ASTRO-NX ===========
+> GitHub: https://github.com/dzj3an/astro-nx
+
+===============================
+           IMPORTANTE
+===============================
+
+-- hekate_ctcaer .......... v6.3.1  
+-- Nyx .................... v1.7.0  
+-- atmosphere ............. v1.9.1  
+-- hbl .................... v2.4.4  
+-- hbmenu ................. v3.6.0  
+
+===============================
+           HOMEBREWS
+===============================
+
+-- DBI .................... v658  
+-- sphaira ................ v0.12.0  
+-- JKSV ................... v11.05.2024  
+-- TinWoo Installer ....... v1.1.0  
+-- Reboot to Payload ...... v1.0.1  
+-- NXSwitchThemesInstaller  v2.8  
+-- Switch_90DNS_tester .... v1.0.4  
+-- ldn_mitm ............... v1.9.1  
+-- Tesla-Menu ............. v1.2.3  
+-- sys-clk ................ v2.0.1  
+-- nx-ovlloader ........... v16.0.0  
+-- Status-Monitor-Overlay . v1.1.9  
+-- sys-con ................ v0.6.5  
+
+===============================
+           PC TOOLS
+===============================
+
+-- TegraRcmGUI ............ v2.6 (installer(.msi) | portable(.exe)
+-- Switch Theme Injector .. v4.8  (.exe)

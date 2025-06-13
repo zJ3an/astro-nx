@@ -1,0 +1,3 @@
+Source | https://github.com/masagrator/Status-Monitor-Overlay
+
+Version | https://github.com/masagrator/Status-Monitor-Overlay/releases/tag/1.1.9

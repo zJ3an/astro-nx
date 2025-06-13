@@ -1,0 +1,3 @@
+Source | https://github.com/switchbrew/nx-hbmenu
+
+Version | https://github.com/switchbrew/nx-hbmenu/releases/tag/v3.6.0

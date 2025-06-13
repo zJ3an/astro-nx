@@ -1,0 +1,3 @@
+Source | https://github.com/eliboa/TegraRcmGUI
+
+Version | https://github.com/eliboa/TegraRcmGUI/releases/tag/2.6
