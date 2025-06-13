@@ -1,0 +1,3 @@
+Source | https://github.com/Atmosphere-NX/Atmosphere
+
+Version | https://github.com/Atmosphere-NX/Atmosphere/releases/tag/1.9.1
