@@ -1,3 +1,0 @@
-Source| https://github.com/WerWolv/Tesla-Menu
-
-Version | https://github.com/WerWolv/Tesla-Menu/releases/tag/v1.2.3

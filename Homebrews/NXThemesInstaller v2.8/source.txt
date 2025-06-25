@@ -1,3 +1,0 @@
-Creator | https://github.com/exelix11/SwitchThemeInjector
-
-Version | https://github.com/exelix11/SwitchThemeInjector/releases/tag/v4.8

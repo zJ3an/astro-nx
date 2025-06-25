@@ -1,3 +1,0 @@
-Source | https://github.com/cathery/sys-con
-
-Version | https://github.com/cathery/sys-con/releases/tag/v0.6.5

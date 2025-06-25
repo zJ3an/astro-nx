@@ -1,3 +1,0 @@
-Creator | https://github.com/hax4dazy/TinWoo
-
-Version | https://github.com/hax4dazy/TinWoo/releases/tag/1.1.0

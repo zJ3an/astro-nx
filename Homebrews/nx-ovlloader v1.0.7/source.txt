@@ -1,3 +1,0 @@
-Source | https://github.com/WerWolv/nx-ovlloader
-
-Version | https://github.com/WerWolv/nx-ovlloader/releases/tag/v1.0.7

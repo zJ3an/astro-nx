@@ -1,3 +1,0 @@
-Source | https://github.com/ITotalJustice/sphaira
-
-Version| https://github.com/ITotalJustice/sphaira/releases/tag/0.12.0
