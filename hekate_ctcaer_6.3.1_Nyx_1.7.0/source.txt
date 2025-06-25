@@ -1,3 +1,0 @@
-Source | https://github.com/CTCaer/hekate
-
-Version | https://github.com/CTCaer/hekate/releases/tag/v6.3.1
