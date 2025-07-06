@@ -4,6 +4,12 @@
 </p>
 
 <p align="center">
+  <a href="https://zj3an.vercel.app/donate.html">
+    <img src="https://img.shields.io/badge/💖%20Donate-Apóyame%20con%20una%20donación-blueviolet" alt="Donar">
+  </a>
+</p>
+
+<p align="center">
   <a href="https://discord.gg/K7k2pzT8de">
     <img src="https://img.shields.io/badge/Discord-Astro%20Homebrew-5865F2?logo=discord&logoColor=white" alt="Discord">
   </a>
