@@ -33,7 +33,7 @@
 ---
 
 ## 📦 ASTRO-NX - Vanilla & Normal
-❕ Descargar: [👾 Vanilla v1.0.1](https://github.com/zJ3an/astro-nx/releases/download/1.0.2/astro-nx-vanilla_v1.0.2.zip) | [Normal v1.0.2 👾](https://github.com/zJ3an/astro-nx/releases/download/1.0.2/astro-nx-normal_v1.0.2.zip)
+❕ Descargar: [👾 Vanilla v1.0.2](https://github.com/zJ3an/astro-nx/releases/download/1.0.2/astro-nx-vanilla_v1.0.2.zip) | [Normal v1.0.2 👾](https://github.com/zJ3an/astro-nx/releases/download/1.0.2/astro-nx-normal_v1.0.2.zip)
 
 | Contenido                     | Vanilla | Normal |
 | ----------------------------- | :-----: | :----: |
