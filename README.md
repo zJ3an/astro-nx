@@ -33,7 +33,7 @@
 ---
 
 ## 📦 ASTRO-NX - Vanilla & Normal
-❕ Descargar: [👾 Vanilla v1.0.1](https://github.com/zJ3an/astro-nx/releases/download/v1.0.1/astro-nx-vanilla_v1.0.1.zip) | [Normal v1.0.1👾](https://github.com/zJ3an/astro-nx/releases/download/v1.0.1/astro-nx-normal_v1.0.1.zip)
+❕ Descargar: [👾 Vanilla v1.0.1](https://github.com/zJ3an/astro-nx/releases/download/1.0.2/astro-nx-vanilla_v1.0.2.zip) | [Normal v1.0.2 👾](https://github.com/zJ3an/astro-nx/releases/download/1.0.2/astro-nx-normal_v1.0.2.zip)
 
 | Contenido                     | Vanilla | Normal |
 | ----------------------------- | :-----: | :----: |
@@ -58,7 +58,7 @@
 ## 🧩 ASTRO-NX Homebrews
 Pack que incluye exclusivamente herramientas *homebrew* para tu Nintendo Switch con CFW. Ideal si solo quieres las apps útiles.
 
-[👾 Descargar v1.0.1👾](https://github.com/zJ3an/astro-nx/releases/download/v1.0.1/Homebrews_v1.0.1.zip)
+[👾 Descargar v1.0.2👾](https://github.com/zJ3an/astro-nx/releases/download/1.0.2/Homebrews.zip)
 
 | Homebrew                   | Versión  |
 |----------------------------|----------|
@@ -67,7 +67,7 @@ Pack que incluye exclusivamente herramientas *homebrew* para tu Nintendo Switch 
 | [JKSV](https://github.com/J-D-K/JKSV)                                  | v11.05.2024 |
 | [TinWoo Installer](https://github.com/hax4dazy/TinWoo)                 | v1.1.0   |
 | [Reboot to Payload](https://github.com/Atmosphere-NX/Atmosphere)      | v1.0.1   |
-| [NXSwitchThemesInstaller](https://github.com/exelix11/SwitchThemeInjector) | v2.8     |
+| [NXSwitchThemesInstaller](https://github.com/exelix11/SwitchThemeInjector) | v2.8.1     |
 | [Switch_90DNS_tester](https://github.com/meganukebmp/Switch_90DNS_tester) | v1.0.4   |
 | [ldn_mitm](https://github.com/DefenderOfHyrule/ldn_mitm)               | v1.9.1   |
 | [Tesla-Menu](https://github.com/WerWolv/Tesla-Menu)                    | v1.2.3   |
@@ -81,7 +81,7 @@ Pack que incluye exclusivamente herramientas *homebrew* para tu Nintendo Switch 
 ## ⚙️ Hekate + Atmosphere
 Pack básico con Hekate y Atmosphere en sus últimas versiones. Ideal si solo quieres actualizar.
 
-[👾 Descargar](https://github.com/zJ3an/astro-nx/releases/download/v1.0.1/hekate+atmosphere.zip)
+[👾 Descargar](https://github.com/zJ3an/astro-nx/releases/download/1.0.2/hekate+atmosphere.zip)
 
 | Componente   | Versión  |
 |--------------|----------|
@@ -97,12 +97,12 @@ Pack básico con Hekate y Atmosphere en sus últimas versiones. Ideal si solo qu
 
 Herramientas útiles para tu Switch desde PC con Windows.
 
-[👾 Descargar v1.0.1👾](https://github.com/zJ3an/astro-nx/releases/download/v1.0.1/PC_Tools_v1.0.1.zip)
+[👾 Descargar v1.0.2👾](https://github.com/zJ3an/astro-nx/releases/download/1.0.2/PC_Tools.zip)
 
 | Herramienta                           | Versión | Formato                    |
 |--------------------------------------|---------|----------------------------|
 | [TegraRcmGUI](https://github.com/eliboa/TegraRcmGUI)             | v2.6    | Installer (.msi) / Portable (.exe) |
-| [Switch Theme Injector](https://github.com/exelix11/SwitchThemeInjector) | v4.8    | .exe                        |
+| [Switch Theme Injector](https://github.com/exelix11/SwitchThemeInjector) | v4.8.1    | .exe                        |
 
 ---
 
