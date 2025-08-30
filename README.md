@@ -46,7 +46,6 @@
 | [Switch\_90DNS\_tester v1.0.4](https://github.com/meganukebmp/Switch_90DNS_tester)| ✅ | ✅ |
 | [TinWoo Installer v1.1.0](https://github.com/hax4dazy/TinWoo)   | ✅ | ✅ |
 | [NXSwitchThemesInstaller v2.8](https://github.com/exelix11/SwitchThemeInjector) | ❌ | ✅ |
-| [ldn\_mitm v1.9.1](https://github.com/DefenderOfHyrule/ldn_mitm)        | ❌ | ✅ |
 | [Tesla-Menu v1.2.3](https://github.com/WerWolv/Tesla-Menu)          | ❌ | ✅ |
 | [sys-clk v2.0.1](https://github.com/retronx-team/sys-clk)            | ❌ | ✅ |
 | [nx-ovlloader v16.0.0](https://github.com/WerWolv/nx-ovlloader)   | ❌ | ✅ |
