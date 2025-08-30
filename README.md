@@ -33,7 +33,7 @@
 ---
 
 ## 📦 ASTRO-NX - Vanilla & Normal
-❕ Descargar: [👾 Vanilla v1.1.0](https://github.com/zJ3an/astro-nx/releases/download/v1.1.0/astro-nx-vanilla.zip) | [Normal v1.0.2 👾](https://github.com/zJ3an/astro-nx/releases/download/v1.1.0/astro-nx-normal.zip)
+❕ Descargar: [👾 Vanilla v1.1.0](https://github.com/zJ3an/astro-nx/releases/download/v1.1.0/astro-nx-vanilla.zip) | [Normal v1.1.0 👾](https://github.com/zJ3an/astro-nx/releases/download/v1.1.0/astro-nx-normal.zip)
 
 | Contenido                     | Vanilla | Normal |
 | ----------------------------- | :-----: | :----: |
@@ -57,7 +57,7 @@
 ## 🧩 ASTRO-NX Homebrews
 Pack que incluye exclusivamente herramientas *homebrew* para tu Nintendo Switch con CFW. Ideal si solo quieres las apps útiles.
 
-[👾 Descargar v1.1.0👾](https://github.com/zJ3an/astro-nx/releases/download/1.0.2/Homebrews.zip)
+[👾 Descargar v1.1.0👾](https://github.com/zJ3an/astro-nx/releases/download/v1.1.0/Homebrews.zip)
 
 | Homebrew                   | Versión  |
 |----------------------------|----------|
@@ -80,7 +80,7 @@ Pack que incluye exclusivamente herramientas *homebrew* para tu Nintendo Switch 
 ## ⚙️ Hekate + Atmosphere
 Pack básico con Hekate y Atmosphere en sus últimas versiones. Ideal si solo quieres actualizar.
 
-[👾 Descargar](https://github.com/zJ3an/astro-nx/releases/download/1.0.2/hekate+atmosphere.zip)
+[👾 Descargar](https://github.com/zJ3an/astro-nx/releases/download/v1.1.0/hekate+atmosphere.zip)
 
 | Componente   | Versión  |
 |--------------|----------|
@@ -96,7 +96,7 @@ Pack básico con Hekate y Atmosphere en sus últimas versiones. Ideal si solo qu
 
 Herramientas útiles para tu Switch desde PC con Windows.
 
-[👾 Descargar v1.0.2👾](https://github.com/zJ3an/astro-nx/releases/download/1.0.2/PC_Tools.zip)
+[👾 Descargar v1.0.2👾](https://github.com/zJ3an/astro-nx/releases/download/v1.1.0/PC_Tools.7z)
 
 | Herramienta                           | Versión | Formato                    |
 |--------------------------------------|---------|----------------------------|
