@@ -10,7 +10,7 @@
 -- JKSV ................... v11.05.2024  
 -- TinWoo Installer ....... v1.1.0  
 -- Reboot to Payload ...... v1.0.1  
--- NXSwitchThemesInstaller  v2.8  
+-- NXSwitchThemesInstaller  v2.8.1
 -- Switch_90DNS_tester .... v1.0.4  
 -- ldn_mitm ............... v1.9.1  
 -- Tesla-Menu ............. v1.2.3  

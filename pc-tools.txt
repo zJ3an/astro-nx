@@ -6,4 +6,4 @@
 ===============================
 
 -- TegraRcmGUI ............ v2.6 (installer(.msi) | portable(.exe)
--- Switch Theme Injector .. v4.8  (.exe)
+-- Switch Theme Injector .. v4.8.1  (.exe)

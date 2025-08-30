@@ -7,7 +7,7 @@
 
 -- hekate_ctcaer .......... v6.3.1  
 -- Nyx .................... v1.7.0  
--- atmosphere ............. v1.9.1  
+-- atmosphere ............. v1.9.3
 -- hbl .................... v2.4.4  
 -- hbmenu ................. v3.6.0  
 
@@ -22,7 +22,6 @@
 -- Reboot to Payload ...... v1.0.1  
 -- NXSwitchThemesInstaller  v2.8  
 -- Switch_90DNS_tester .... v1.0.4  
--- ldn_mitm ............... v1.9.1  
 -- Tesla-Menu ............. v1.2.3  
 -- sys-clk ................ v2.0.1  
 -- nx-ovlloader ........... v16.0.0  
