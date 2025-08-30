@@ -33,7 +33,7 @@
 ---
 
 ## 📦 ASTRO-NX - Vanilla & Normal
-❕ Descargar: [👾 Vanilla v1.0.2](https://github.com/zJ3an/astro-nx/releases/download/1.0.2/astro-nx-vanilla_v1.0.2.zip) | [Normal v1.0.2 👾](https://github.com/zJ3an/astro-nx/releases/download/1.0.2/astro-nx-normal_v1.0.2.zip)
+❕ Descargar: [👾 Vanilla v1.1.0](https://github.com/zJ3an/astro-nx/releases/download/v1.1.0/astro-nx-vanilla.zip) | [Normal v1.0.2 👾](https://github.com/zJ3an/astro-nx/releases/download/v1.1.0/astro-nx-normal.zip)
 
 | Contenido                     | Vanilla | Normal |
 | ----------------------------- | :-----: | :----: |
@@ -57,7 +57,7 @@
 ## 🧩 ASTRO-NX Homebrews
 Pack que incluye exclusivamente herramientas *homebrew* para tu Nintendo Switch con CFW. Ideal si solo quieres las apps útiles.
 
-[👾 Descargar v1.0.2👾](https://github.com/zJ3an/astro-nx/releases/download/1.0.2/Homebrews.zip)
+[👾 Descargar v1.1.0👾](https://github.com/zJ3an/astro-nx/releases/download/1.0.2/Homebrews.zip)
 
 | Homebrew                   | Versión  |
 |----------------------------|----------|
@@ -68,7 +68,7 @@ Pack que incluye exclusivamente herramientas *homebrew* para tu Nintendo Switch 
 | [Reboot to Payload](https://github.com/Atmosphere-NX/Atmosphere)      | v1.0.1   |
 | [NXSwitchThemesInstaller](https://github.com/exelix11/SwitchThemeInjector) | v2.8.1     |
 | [Switch_90DNS_tester](https://github.com/meganukebmp/Switch_90DNS_tester) | v1.0.4   |
-| [ldn_mitm](https://github.com/DefenderOfHyrule/ldn_mitm)               | v1.9.1   |
+| [ldn_mitm](https://github.com/spacemeowx2/ldn_mitm)               | v1.20.0  |
 | [Tesla-Menu](https://github.com/WerWolv/Tesla-Menu)                    | v1.2.3   |
 | [sys-clk](https://github.com/retronx-team/sys-clk)                     | v2.0.1   |
 | [nx-ovlloader](https://github.com/WerWolv/nx-ovlloader)                | v16.0.0  |
@@ -86,7 +86,7 @@ Pack básico con Hekate y Atmosphere en sus últimas versiones. Ideal si solo qu
 |--------------|----------|
 | [hekate v6.3.1](https://github.com/CTCaer/hekate)       | v6.3.1   |
 | Nyx          | v1.7.0   |
-| [Atmosphère 1.9.1](https://github.com/Atmosphere-NX/Atmosphere)   | v1.9.1   |
+| [Atmosphère 1.9.1](https://github.com/Atmosphere-NX/Atmosphere)   | v1.9.3   |
 | hbl          | v2.4.4   |
 | hbmenu       | v3.6.0   |
 
