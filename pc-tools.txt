@@ -1,9 +1,0 @@
-=========== ASTRO-NX ===========
-> GitHub: https://github.com/zj3an/astro-nx
-
-===============================
-           PC TOOLS
-===============================
-
--- TegraRcmGUI ............ v2.6 (installer(.msi) | portable(.exe)
--- Switch Theme Injector .. v4.8.1  (.exe)
