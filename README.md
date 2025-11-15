@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">🚀 ASTRO-NX 🚀</h1>
-  <p align="center">Colección de homebrews y herramientas para Switch con CFW.</p>
+  <p align="center">Pack CFW para Switch.</p>
 </p>
 
 <p align="center">
@@ -9,14 +9,10 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://discord.gg/K7k2pzT8de">
-    <img src="https://img.shields.io/badge/Discord-Astro%20Homebrew-5865F2?logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="https://t.me/AstroHomebrew">
+  <a href="https://t.me/TryHomebrew">
     <img src="https://img.shields.io/badge/Canal-Telegram-229ED9?logo=telegram&logoColor=white" alt="Canal Telegram">
   </a>
-  <a href="https://t.me/AstroHomebrewChat">
+  <a href="https://t.me/TryHomebrewChat">
     <img src="https://img.shields.io/badge/Chat-Telegram-229ED9?logo=telegram&logoColor=white" alt="Chat Telegram">
   </a>
 </p>
