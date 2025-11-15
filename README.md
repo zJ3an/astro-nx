@@ -9,6 +9,7 @@
   </a>
 </p>
 
+<p align="center">
   <a href="https://t.me/TryHomebrew">
     <img src="https://img.shields.io/badge/Canal-Telegram-229ED9?logo=telegram&logoColor=white" alt="Canal Telegram">
   </a>
