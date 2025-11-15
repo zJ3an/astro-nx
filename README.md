@@ -33,12 +33,12 @@
 ---
 
 ## 📦 ASTRO-NX - Vanilla & Normal
-❕ Descargar: [👾 Vanilla v1.1.0](https://github.com/zJ3an/astro-nx/releases/download/v1.1.0/astro-nx-vanilla.zip) | [Normal v1.1.0 👾](https://github.com/zJ3an/astro-nx/releases/download/v1.1.0/astro-nx-normal.zip)
+❕ Descargar: [👾 Vanilla v1.2.0](https://github.com/zJ3an/astro-nx/releases/download/v1.1.0/astro-nx-vanilla.zip) | [Normal v1.2.0 👾](https://github.com/zJ3an/astro-nx/releases/download/v1.1.0/astro-nx-normal.zip)
 
 | Contenido                     | Vanilla | Normal |
 | ----------------------------- | :-----: | :----: |
 | [hekate v6.3.1 & Nyx v1.7.0](https://github.com/CTCaer/hekate)    | ✅ | ✅ |
-| [Atmosphère 1.9.1](https://github.com/Atmosphere-NX/Atmosphere)                | ✅ | ✅ |
+| [Atmosphère 1.9.5](https://github.com/Atmosphere-NX/Atmosphere)                | ✅ | ✅ |
 | [DBI v658](https://github.com/rashevskyv/dbi/releases/tag/658)                      | ✅ | ✅ |
 | [JKSV v11.05.2024](https://github.com/J-D-K/JKSV)            | ✅ | ✅ |
 | [Reboot to Payload v1.0.1](https://github.com/Atmosphere-NX/Atmosphere)     | ✅ | ✅ |
@@ -51,60 +51,6 @@
 | [nx-ovlloader v16.0.0](https://github.com/WerWolv/nx-ovlloader)   | ❌ | ✅ |
 | [Status-Monitor-Overlay v1.1.9](https://github.com/masagrator/Status-Monitor-Overlay) | ❌ | ✅ |
 | [sys-con v0.6.5](https://github.com/cathery/sys-con)            | ❌ | ✅ |
-
----
-
-## 🧩 ASTRO-NX Homebrews
-Pack que incluye exclusivamente herramientas *homebrew* para tu Nintendo Switch con CFW. Ideal si solo quieres las apps útiles.
-
-[👾 Descargar v1.1.0👾](https://github.com/zJ3an/astro-nx/releases/download/v1.1.0/Homebrews.zip)
-
-| Homebrew                   | Versión  |
-|----------------------------|----------|
-| [DBI](https://github.com/rashevskyv/dbi/releases/tag/658)                                | v658     |
-| [sphaira](https://github.com/ITotalJustice/sphaira)                    | v0.12.0  |
-| [JKSV](https://github.com/J-D-K/JKSV)                                  | v11.05.2024 |
-| [TinWoo Installer](https://github.com/hax4dazy/TinWoo)                 | v1.1.0   |
-| [Reboot to Payload](https://github.com/Atmosphere-NX/Atmosphere)      | v1.0.1   |
-| [NXSwitchThemesInstaller](https://github.com/exelix11/SwitchThemeInjector) | v2.8.1     |
-| [Switch_90DNS_tester](https://github.com/meganukebmp/Switch_90DNS_tester) | v1.0.4   |
-| [ldn_mitm](https://github.com/spacemeowx2/ldn_mitm)               | v1.20.0  |
-| [Tesla-Menu](https://github.com/WerWolv/Tesla-Menu)                    | v1.2.3   |
-| [sys-clk](https://github.com/retronx-team/sys-clk)                     | v2.0.1   |
-| [nx-ovlloader](https://github.com/WerWolv/nx-ovlloader)                | v16.0.0  |
-| [Status-Monitor-Overlay](https://github.com/masagrator/Status-Monitor-Overlay) | v1.1.9   |
-| [sys-con](https://github.com/cathery/sys-con)                          | v0.6.5   |
-
----
-
-## ⚙️ Hekate + Atmosphere
-Pack básico con Hekate y Atmosphere en sus últimas versiones. Ideal si solo quieres actualizar.
-
-[👾 Descargar](https://github.com/zJ3an/astro-nx/releases/download/v1.1.0/hekate+atmosphere.zip)
-
-| Componente   | Versión  |
-|--------------|----------|
-| [hekate v6.3.1](https://github.com/CTCaer/hekate)       | v6.3.1   |
-| Nyx          | v1.7.0   |
-| [Atmosphère 1.9.1](https://github.com/Atmosphere-NX/Atmosphere)   | v1.9.3   |
-| hbl          | v2.4.4   |
-| hbmenu       | v3.6.0   |
-
----
-
-## 💻 PC Tools
-
-Herramientas útiles para tu Switch desde PC con Windows.
-
-[👾 Descargar v1.0.2👾](https://github.com/zJ3an/astro-nx/releases/download/v1.1.0/PC_Tools.7z)
-
-| Herramienta                           | Versión | Formato                    |
-|--------------------------------------|---------|----------------------------|
-| [TegraRcmGUI](https://github.com/eliboa/TegraRcmGUI)             | v2.6    | Installer (.msi) / Portable (.exe) |
-| [Switch Theme Injector](https://github.com/exelix11/SwitchThemeInjector) | v4.8.1    | .exe                        |
-
----
-
 ## 📚 Créditos
 
 Este proyecto es una recopilación de herramientas homebrew y utilidades creadas por desarrolladores de la comunidad.  
